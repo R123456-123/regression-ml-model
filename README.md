@@ -10,3 +10,5 @@ Dependent Variable (Target): The value we want to predict (e.g., house price).
 Independent Variables (Features): The inputs that affect the prediction (e.g., locality, number of rooms).
 
 Regression is applied when the output variable is continuous, such as “salary” or “weight.” Various regression models exist, with linear regression being the simplest and most commonly used.
+
+Linear Regression model predict the numerical value.
